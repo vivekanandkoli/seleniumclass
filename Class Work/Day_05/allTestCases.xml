@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Kale Test Case Suite">
+
+   <test name="Login Cases">
+      <classes>
+         <class name="TestngSesssion.TestNG1" />
+         <class name="TestngSesssion.TestNG2" />
+      </classes>
+   </test>
+   
+   <test name="Email Cases">
+      <classes>
+         <class name="TestngSesssion.TestNG1" />
+         <class name="TestngSesssion.TestNG2" />
+      </classes>
+   </test>
+   
+   
+</suite>

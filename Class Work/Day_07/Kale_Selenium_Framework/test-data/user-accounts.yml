@@ -1,0 +1,10 @@
+# User Details test data
+
+login1:
+    email: akshayselenium
+    password: password
+    fullName: Akshay Tuli
+
+login2:
+    email: akshay@gmail.com
+    password: pass

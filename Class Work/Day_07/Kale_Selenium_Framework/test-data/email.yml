@@ -1,0 +1,7 @@
+# This will have data for email
+
+email:
+    to: akshaytuli
+    subject: Test Subject
+    body: Message body
+   

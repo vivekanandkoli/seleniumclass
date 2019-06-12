@@ -1,0 +1,4 @@
+# This will have data for email
+
+login:
+    invalidMessage: Wrong username and password combination.
